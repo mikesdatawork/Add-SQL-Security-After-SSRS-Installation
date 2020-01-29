@@ -1,7 +1,7 @@
 ![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")        
 
 # Add SQL Security After SSRS Installation
-By mikesdatawork on April 15, 2015**        
+**Post Date: April 15, 2015**        
 
 
 ## Contents    
